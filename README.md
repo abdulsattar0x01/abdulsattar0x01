@@ -3,4 +3,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/toxichecker?style=social)
 
 ### Tryhackme
-<script src="https://tryhackme.com/badge/531292"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/R3V3R53.png" alt="TryHackMe">
