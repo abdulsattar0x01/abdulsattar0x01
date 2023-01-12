@@ -4,7 +4,7 @@
 
 
 ### Tryhackme
-<script src="https://tryhackme.com/badge/531292"></script>
+[<script src="https://tryhackme.com/badge/531292"></script>]
 
 
 
