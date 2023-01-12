@@ -4,7 +4,7 @@
 
 
 ### Tryhackme
-[<script src="https://tryhackme.com/badge/531292"></script>]
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdulsattar0x01.png" alt="TryHackMe">
 
 
 
