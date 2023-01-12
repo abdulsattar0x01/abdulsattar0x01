@@ -4,7 +4,8 @@
 
 
 ### Tryhackme
-<img src="https://tryhackme-badges.s3.amazonaws.com/R3V3R53.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/531292"></script>
+
 
 
 
