@@ -2,10 +2,18 @@
 
 **Software Engineering | Cybersecurity Enthusiast | Pentester**
 
+
+
+
+
+
 <h3 align="left">📫 How to reach me:</h3> 
 
 
- [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/toxichecker)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdullsattar/)    &nbsp; <a href="mailto:abdulsattar0x01@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/toxichecker)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdullsattar/)  &nbsp; <a href="mailto:abdulsattar0x01@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
