@@ -1,6 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Abdul Sattar
 
-**Software Engineering | Cybersecurity Enthusiast | Pentester**
+
+<h1 align="center">Hi 👋,  I am Abdul Sattar</h1>
+<h3 align="center">Security Researcher</h3>
+
+
 
 
 ### Tryhackme
